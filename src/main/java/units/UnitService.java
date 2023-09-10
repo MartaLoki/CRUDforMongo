@@ -38,7 +38,6 @@ public class UnitService {
     public void updateUnit(String id, Unit unit) {
         Unit currentUnit = unitRepository.findById(id).orElseThrow(() -> new RuntimeException("Could not find Unit id: " + id));
         currentUnit.setUnitName(unit.getUnitName());
-        currentUnit.setComment(unit.getComment());
         currentUnit.setQuantity(unit.getQuantity());
         unitRepository.save(currentUnit);
     }

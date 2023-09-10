@@ -7,5 +7,4 @@ import java.util.List;
 
 public interface UnitRepository extends MongoRepository<Unit, String> {
     List<Unit> findByUnitName(String name);
-
 }
