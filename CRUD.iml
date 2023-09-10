@@ -39,6 +39,10 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:6.0.7" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:3.0.4" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-security:3.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:6.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:6.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:6.0.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:3.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-json:3.0.5" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2" level="project" />
@@ -54,7 +58,6 @@
     <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.10.5" level="project" />
     <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.10.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:6.0.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-aop:6.0.7" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.26" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:3.0.5" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:3.0.5" level="project" />
@@ -87,9 +90,8 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:6.0.7" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.9.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-test:6.0.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-core:6.0.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-crypto:6.0.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-web:6.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:6.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:6.0.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: de.flapdoodle.embed:de.flapdoodle.embed.mongo.spring30x:4.6.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: de.flapdoodle.embed:de.flapdoodle.embed.mongo:4.6.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: de.flapdoodle.embed:de.flapdoodle.embed.process:4.6.1" level="project" />
